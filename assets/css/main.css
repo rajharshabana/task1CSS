@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 232.5px;
+}
+.header ul{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 60px;
+}
+.icons{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+}
