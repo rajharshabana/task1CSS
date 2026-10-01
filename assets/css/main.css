@@ -2,6 +2,9 @@
     display: flex;
     flex-wrap: wrap;
     gap: 232.5px;
+    align-items: center;
+    margin-bottom: 25px;
+    padding-top: 21.84px;
 }
 .header ul{
     display: flex;
@@ -12,4 +15,15 @@
     display: flex;
     flex-wrap: wrap;
     gap: 24px;
+}
+.collections{
+    
+    gap: 30px;
+}
+.collection img {
+    margin-bottom: 23px;
+   
+}
+.collection h2{
+     text-align: center;
 }
